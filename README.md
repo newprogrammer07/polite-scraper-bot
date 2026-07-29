@@ -25,5 +25,6 @@ python scraper.py
 3. The extracted dataset will be saved automatically to rag_corpus.json in the root directory.
 
 Author
+
 Ashutosh Nayak
 ashutoshnayak0077@gmail.com
